@@ -10,6 +10,7 @@ My daily DSA solutions in Python
 | [0011-container-with-most-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
@@ -18,6 +19,7 @@ My daily DSA solutions in Python
 | [0011-container-with-most-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
@@ -41,4 +43,16 @@ My daily DSA solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
