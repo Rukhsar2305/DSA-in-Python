@@ -13,6 +13,7 @@ My daily DSA solutions in Python
 | [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0283-move-zeroes/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ My daily DSA solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0001-two-sum/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,8 @@ My daily DSA solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
