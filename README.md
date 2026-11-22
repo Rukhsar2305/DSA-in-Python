@@ -12,6 +12,7 @@ My daily DSA solutions in Python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0075-sort-colors/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -68,6 +69,7 @@ My daily DSA solutions in Python
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -77,11 +79,13 @@ My daily DSA solutions in Python
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Queue
