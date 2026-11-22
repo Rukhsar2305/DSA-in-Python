@@ -16,6 +16,7 @@ My daily DSA solutions in Python
 | [0239-sliding-window-maximum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -35,6 +36,7 @@ My daily DSA solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0001-two-sum/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -88,6 +90,7 @@ My daily DSA solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -111,4 +114,12 @@ My daily DSA solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
