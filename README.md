@@ -20,6 +20,7 @@ My daily DSA solutions in Python
 | [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -97,6 +98,7 @@ My daily DSA solutions in Python
 | [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Queue
