@@ -25,6 +25,7 @@ My daily DSA solutions in Python
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1314-matrix-block-sum/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ My daily DSA solutions in Python
 | [0724-find-pivot-index](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1314-matrix-block-sum/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,8 @@ My daily DSA solutions in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1314-matrix-block-sum](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
