@@ -40,6 +40,7 @@ My daily DSA solutions in Python
 | [0042-trapping-rain-water](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0344-reverse-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +151,8 @@ My daily DSA solutions in Python
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Rukhsar2305/DSA-in-Python/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
